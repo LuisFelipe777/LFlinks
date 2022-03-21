@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/LFlinks/static/css/main.374c8256.css",
+    "main.js": "/LFlinks/static/js/main.81c75fe6.js",
+    "index.html": "/LFlinks/index.html",
+    "main.374c8256.css.map": "/LFlinks/static/css/main.374c8256.css.map",
+    "main.81c75fe6.js.map": "/LFlinks/static/js/main.81c75fe6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.374c8256.css",
+    "static/js/main.81c75fe6.js"
+  ]
+}
