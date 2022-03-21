@@ -1,0 +1,17 @@
+.menu{
+    position: absolute;
+    top: 20px;
+    right: 2%;
+    font-weight: bold;
+    display: flex;
+    background-color: #fff;
+    padding: 10px;
+    border: 0;
+    border-radius: 4px;
+}
+
+.menu-item{
+    text-decoration: none;
+    color: #000;
+    
+}
